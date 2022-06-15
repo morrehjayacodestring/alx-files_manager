@@ -1,1 +1,1 @@
-file manager
+file management platform
